@@ -2,9 +2,9 @@
 window.routerBase = 'http://127.0.0.1:8000/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: '大狗云',
   // 站点描述
-  description: 'Xboard',
+  description: '云游四海',
   assets_path: '/assets',
   // 主题色
   theme: {
