@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://1324874184-hcppkk2eyg.ap-shanghai.tencentscf.com'
+window.routerBase = 'https://1324874184-hcppkk2eyg.ap-shanghai.tencentscf.com/'
 window.settings = {
   // 站点名称
   title: '大狗云',
