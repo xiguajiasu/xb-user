@@ -13,7 +13,7 @@ window.settings = {
   // 版本号
   version: '0.1.1-dev',
   // 登陆背景
-  background_url: '',
+  background_url: 'https://dagouyun.vip/images/loginbg.webp',
   // 站点LOGO
   logo: '',
 }
